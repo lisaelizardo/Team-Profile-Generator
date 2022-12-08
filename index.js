@@ -22,7 +22,7 @@ inquirer
         },
         {
             type: 'input',
-            name: 'office number',
+            name: 'office',
             message: 'What is their office number?'
         },
         {
@@ -33,9 +33,6 @@ inquirer
             
         },
     ])
-    if ('add an engineer') {
-        continue1 = "continue"
-    }
 
 
 

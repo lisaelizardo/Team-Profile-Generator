@@ -1,10 +1,14 @@
 function generateHtml(answers) {
     const htmlContent =`
     ## ${answers.name}
+    # ID
+    ${answers.id}
     # Email
     ${answers.email}
-    # Github
-    ${answers.github}
+    # Office Number
+    ${answers.office}
+    # List
+    ${answers.option}
 `
     return htmlContent
 }
