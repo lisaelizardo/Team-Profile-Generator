@@ -1,6 +1,11 @@
 const inquirer = require('inquirer');
 const generateHtml = require('./generator.js');
 const path = require('path');
+
+const Manager = require('./lib/manager')
+const Engineer = require('./lib/engineer')
+const Intern = require('./lib/intern')
+
 fs = require('fs');
 
 inquirer

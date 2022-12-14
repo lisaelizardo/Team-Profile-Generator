@@ -10,3 +10,4 @@ For finish building the team it will take all the inputted information and creat
 
 The video below will demonstrate how to use the command line prompts.
 
+https://watch.screencastify.com/v/8naR5AQOK8UeBr3WzePZ
